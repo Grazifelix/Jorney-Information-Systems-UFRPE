@@ -46,9 +46,9 @@ os pontos de entrega. Essa ordem deve ser a de menor custo, ou seja, a que o dro
 O formato do arquivo de entrada será o seguinte para a matriz de exemplo.
 
 4 5
-0 0 0 0 D
-0 A 0 0 0
-0 0 0 0 C
+0 0 0 0 D <br>
+0 A 0 0 0 <br>
+0 0 0 0 C <br>
 R 0 B 0 0
 
 
