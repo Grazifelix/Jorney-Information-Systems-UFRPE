@@ -1,14 +1,14 @@
-<h1>Repositório do Projeto Interdisciplinar II (PSI2-2021.1)</h1>
+Repositório do Projeto Interdisciplinar II (PSI2-2021.1)
 
-<h2>OBJETVO</h2>
-<p>Desenvolver algoritmos que solucionem um problema de circuito denominado Flyfood e a partir dele realizar um estudo sobre eles.</p>
+OBJETVO
+Desenvolver algoritmos que solucionem um problema de circuito denominado Flyfood e a partir dele realizar um estudo sobre eles.
 
 
-<h2>DESCRIÇÃO</h2>
+DESCRIÇÃO
 
-<h3>Projeto FlyFood</h3>
+Projeto FlyFood
 
-<p>Estamos no ano de 2025 e nesse futuro não tão distante o trânsito está caótico. 
+Estamos no ano de 2025 e nesse futuro não tão distante o trânsito está caótico. 
 As empresas de delivery já não conseguem fazer entregas em um tempo aceitável e o 
 custo com entregadores está muito alto, pois mão-de-obra humana está cada vez mais 
 valorizada devido à grande oferta de empregos (ok… essa última parte é mais sonho do 
@@ -56,4 +56,4 @@ Sua resposta deverá ser a sequência de pontos (em forma de string) que produz 
 circuito possível a ser percorrido pelo drone entre os pontos de entrega, partindo e 
 retornando ao ponto R (o ponto R não precisa ser incluído na sequência de resposta). Por exemplo: "A D C B".
 
-Divirta-se!</p>
+Divirta-se!
