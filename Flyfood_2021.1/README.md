@@ -1,6 +1,6 @@
 <h1>Repositório do Projeto Interdisciplinar II (PSI2-2021.1)</h1>
 
-<h2>OBJETVO</h2>
+<h2>OBJETIVO</h2>
 <p>Desenvolver algoritmos que solucionem um problema de circuito denominado Flyfood e a partir dele realizar um estudo sobre eles.</p>
 
 
