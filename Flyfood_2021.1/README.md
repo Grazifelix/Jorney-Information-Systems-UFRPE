@@ -7,7 +7,7 @@
 <h2>DESCRIÇÃO</h2>
 
 <h3>Projeto FlyFood</h3>
-<p>
+
 Estamos no ano de 2025 e nesse futuro não tão distante o trânsito está caótico. 
 As empresas de delivery já não conseguem fazer entregas em um tempo aceitável e o 
 custo com entregadores está muito alto, pois mão-de-obra humana está cada vez mais 
@@ -57,4 +57,4 @@ circuito possível a ser percorrido pelo drone entre os pontos de entrega, parti
 retornando ao ponto R (o ponto R não precisa ser incluído na sequência de resposta). Por exemplo: "A D C B".
 
 Divirta-se!
-</p>
+
