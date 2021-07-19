@@ -229,3 +229,4 @@ def ajustePopulacional(populacao, tamanhoPopulacao):
 # IMPRIMINDO MELHOR RESULTADO
 ag = algoritmoGenetico(pontos, tamanhoPopulacao, taxaDeReproducao, probabilidadeMutacao, criterioParada)
 print("Melhor solução encontrada: {} | {}".format(ag[0][0], ag[0][1]))
+
