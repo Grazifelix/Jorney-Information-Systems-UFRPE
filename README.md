@@ -20,14 +20,14 @@ Aqui se encontram todos os arquivos de atividades e links de projetos que realiz
 
 #### *Semestre III - 2021.2*
 
-__1. Introdução ao armazenamento e análise de dados:__ mini projeto para a conclusão da disciplina, reunindo os conhecimentos adquiridos criando um Interface Gráfica em python(Tkinter) com conexão com MySQL.
+- __1. Introdução ao armazenamento e análise de dados:__ mini projeto para a conclusão da disciplina, reunindo os conhecimentos adquiridos criando um Interface Gráfica em python(Tkinter) com conexão com MySQL.
   - *Repositório*: https://github.com/Grazifelix/Clinicas_Medicas_GUI_CRUD_Python
-__2. Desenvolvimento de sistemas de informação:__  cadeira de desenvolvimento de sistemas utilizando a linguagem Flutter e Dart.
+- __2. Desenvolvimento de sistemas de informação:__  cadeira de desenvolvimento de sistemas utilizando a linguagem Flutter e Dart.
   - *Repositório*: https://github.com/Grazifelix/DSI-2021.1  (atividades)
-__3. Projeto LikeABook:__ aplicativo de recomendação de livros criado com flutter para a disciplina de projetos, utilizando machine Learning para realizar recomendações aos usuários. Este projeto foi desenvolvido com a colaboração de mais quatro pessoas. 
+- __3. Projeto LikeABook:__ aplicativo de recomendação de livros criado com flutter para a disciplina de projetos, utilizando machine Learning para realizar recomendações aos usuários. Este projeto foi desenvolvido com a colaboração de mais quatro pessoas. 
   - *Repositório*: https://github.com/Grazifelix/Like-A-book-App
   - *Machine Learning*: https://github.com/mariomendonca/pisi-3
 
 #### *Semestre IV - 2022.1*
-__1. Introdução a Criptografia:__ disciplina dos principais conceitos de criptográfia.
+- __1. Introdução a Criptografia:__ disciplina dos principais conceitos de criptográfia.
   - *Repositório*: 
