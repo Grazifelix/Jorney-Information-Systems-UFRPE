@@ -24,7 +24,8 @@ Aqui se encontram todos os arquivos de atividades e links de projetos que realiz
   - *Repositório*: https://github.com/Grazifelix/Clinicas_Medicas_GUI_CRUD_Python
 - __2. Desenvolvimento de sistemas de informação:__  cadeira de desenvolvimento de sistemas utilizando a linguagem Flutter e Dart.
   - *Repositório*: https://github.com/Grazifelix/DSI-2021.1  (atividades)
-- __3. Projeto LikeABook:__ aplicativo de recomendação de livros criado com flutter para a disciplina de projetos, utilizando machine Learning para realizar recomendações aos usuários. Este projeto foi desenvolvido com a colaboração de mais quatro pessoas. 
+- __3. Projeto LikeABook:__ aplicativo de recomendação de livros criado com flutter para a disciplina de projetos, utilizando machine Learning para realizar recomendações aos usuários. Este projeto foi desenvolvido com a colaboração de mais quatro pessoas.
+  - *Protótipo*: https://www.figma.com/proto/VMuKAVPpoaL7rAn4G6jpHi/Survivors?node-id=14-3&starting-point-node-id=14%3A3&scaling=scale-down&mode=design&t=FR2mnd2shMLAptPq-1
   - *Repositório*: https://github.com/Grazifelix/Like-A-book-App
   - *Machine Learning*: https://github.com/mariomendonca/pisi-3
     
@@ -37,7 +38,7 @@ Aqui se encontram todos os arquivos de atividades e links de projetos que realiz
     
 ### *Semestre V - 2022.2*
 - __1. Projeto Para Mundo I - LactoSafe:__ prototipação de um aplicativo para intolerantes a lactose utilizando o software Figma e o Human Centered Design Toolkit.
-  - *Repositório*: https://www.figma.com/proto/Sgz14FyTf2VmRZMvGPptxz/LactoSafe?type=design&node-id=188-15&t=ad9j2q5ua5EF8dDV-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=188%3A15&mode=design
+  - *Protótipo*: https://www.figma.com/proto/Sgz14FyTf2VmRZMvGPptxz/LactoSafe?node-id=188-15&starting-point-node-id=188%3A15&scaling=scale-down&mode=design&t=kk4llgzvatt3Fgnb-1
  
 
 ### *Semestre VI - 2023.1*
