@@ -46,3 +46,9 @@ Aqui se encontram todos os arquivos de atividades e links de projetos que realiz
   - *Repositório*: https://github.com/CabralArthur/lactosafe-api
 - __2. Engenharia para sistemas de informação III - LactoSafe:__ construição do aplicativo prototipado no semestre anterior utilizando a linguagem Dart e o Flutter.
   - *Repositório*: https://github.com/CabralArthur/lactosafe-app
+ 
+### *Semestre VII - 2023.2*
+-__1. Projeto Kanboard - Disciplina de Metodologias Ágeis de Desenvolvimento de Software:__ construção do MVP de um aplicativo voltado para a implementação da metodologia Kanban.
+  - *Deploy*: https://kan-board.vercel.app/#/login
+  - *Repositório*: https://github.com/darllangomes/KanBoard
+  - *Backend*: https://github.com/igor-felipe/kanban
